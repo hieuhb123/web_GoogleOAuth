@@ -20,7 +20,7 @@ This is a Java-based web application built with **IntelliJ IDEA**, deployed on *
 - Apache Tomcat 11
 - Servlet API
 - Google OAuth 2.0
-- JavaMail API or Gmail API
+- Gmail API
 - IntelliJ IDEA
 - Maven
 

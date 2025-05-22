@@ -1,8 +1,6 @@
 package org.webapp;
 
 import java.io.*;
-import java.security.GeneralSecurityException;
-import java.util.Properties;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.MultipartConfig;
 import jakarta.servlet.annotation.WebServlet;
